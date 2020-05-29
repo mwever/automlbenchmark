@@ -61,7 +61,7 @@ AutoGluon_best:
 autosklearn:
   version: '0.6.0'
   project: https://automl.github.io/auto-sklearn/stable/
-  params:
+#  params:
 #    _save_artifacts: ['models']
 
 AutoWEKA:
